@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaiwen Geng
-- 👀 I’m interested in Computer vision, Natural language processing, Robotics, Deep Learning, etc.
+- 👀 I’m interested in Computer Vision, Natural Language Processing, Robotics, Deep Learning, etc.
 
 
 <!---
